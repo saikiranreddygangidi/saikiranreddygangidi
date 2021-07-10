@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **Aws,Docker,Python,vue js,adonisjs,typescript ngnix server**
 
-- 👨‍💻 All of my projects are available at [https://saikiranreddygangidi.github.io/](https://saikiranreddygangidi.github.io/)
+- 👨‍💻 All of my projects are available at [saikiranreddygangidi.github.io/](https://saikiranreddygangidi.github.io/)
 
-- 💻 I impllemented a code bot once can view it here [Telegram]](https://web.telegram.org/#/im?p=@Adcodebot)
+- 💻 I implemented a code bot once can view it here [Adcodebot](https://web.telegram.org/#/im?p=@Adcodebot)
 
 - 💬 Ask me about **python,Vuejs,CodeBot, full Stack development, data analysis and visualisation**
 
@@ -78,13 +78,13 @@
 
 <p align="center">
 <a href="https://github.com/SriSatyaLokesh">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srisatyalokesh&theme=nightowl&hide_border=true" alt="srisatyalokesh"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikiranreddygangidi&theme=nightowl&hide_border=true" alt="saikiranreddygangidi"/>
 </a>
 </p>
 <details>
   <summary>Other GitHub Stats</summary>
   <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=srisatyalokesh&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=srisatyalokesh&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="srisatyalokesh" height=150px />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=saikiranreddygangidi&show_icons=true&locale=en&layout=compact&theme=nightowl&hide_border=true" alt="saikiranreddygangidi" height=150px/><img  src="https://github-readme-stats.vercel.app/api?username=saikiranreddygangidi&show_icons=true&locale=en&theme=nightowl&hide_border=true" alt="saikiranreddygangidi" height=150px />
   </p>
 </details>
 
@@ -95,7 +95,6 @@
 <a href="mailto:saikiranreddygangidi@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://linkedin.com/in/saikiranreddygangidi"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/saikiranreddygangidi/"><img src="https://img.shields.io/badge/-Instagram-E1306C?style=flat&logo=Instagram&logoColor=white"/></a>
-
 <a href="https://www.hackerrank.com/saikiranreddyga1"><img src="https://img.shields.io/badge/-Hackerrank-32CD30?style=flat&logo=hackerrank&logoColor=white"/></a>
 
 </p>
