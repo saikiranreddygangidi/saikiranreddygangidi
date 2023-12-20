@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer+at+Dhan+AI;Chatbot+and+Python+Developer;Graphic+Designer+and+Social+Media+Influencer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Development+Engineer+at+Adobe;Chatbot+and+Python+Developer;PHP+Developer;" />
 </p>
 
-- 🔭 I’m currently working on [Software Devloper at northwest Missouri](https://online.nwmissouri.edu/online/sap/?lsid=google&lssid=nwmissouri_all_all_x_sr_gen&utm_source=google&utm_medium=cpc&utm_term=northwest%20missouri%20state%20university&utm_content=northwest-missouri-university&utm_campaign=nwmissouri_all_all_x_sr_gen-B-X-E-X-ALL&type=e&network=g&device=c&adid=389818596444&ptid=&ad_pos=&fdid=&tgid=kwd-296243374925&lphys=9023314&linst=&theme=&template=&url=https://online.nwmissouri.edu/online/sap/&campid=820090509&groupid=41712342146&model=&&notmobile&search&&kw=northwest%20missouri%20state%20university&sitetarg=&iv_=__iv_p_1_g_41712342146_w_kwd-296243374925_h_9023314_ii__d_c_v__n_g_c_389818596444_l__t__e__r__vi__&gclid=Cj0KCQjwiqWHBhD2ARIsAPCDzamyYCN8XxgDeaeQvd0fuW-gefx7Uv_pPwQkfr6gFMgx7QIIMDpYtewaAgj3EALw_wcB)
+- 🔭 I’m currently working on Adobe
 
 - 🌱 I’m currently learning **Aws,Docker,Python,vue js,adonisjs,typescript ngnix server**
 
